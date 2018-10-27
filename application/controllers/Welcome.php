@@ -27,4 +27,9 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('hello');
 	}
+
+	public function test2($value='')
+	{
+		$this->load->view('hello');
+	}
 }
