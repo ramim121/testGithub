@@ -1,1 +1,9 @@
-<h1>Hello Interns</h1>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello</title>
+</head>
+<body>
+    <h3>Hello All</h3>
+</body>
+</html>
